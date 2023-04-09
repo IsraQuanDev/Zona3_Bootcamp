@@ -50,6 +50,10 @@
 
 * App Frontend [Tamakotshi](http://ec2-54-215-49-19.us-west-1.compute.amazonaws.com:30696/)
 
+* Poner la dirección de contrato y firmar la transacción. 
+
+
+![Aquí la descripción de la imagen por si no carga](frontend_tamakotshi.PNG)
 
 
 
