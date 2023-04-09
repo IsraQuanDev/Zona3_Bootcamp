@@ -7,5 +7,5 @@
 
 ## II.- BNB-Chain-Day 
 
-- [dd]()
+- [Notas](https://github.com/IsraQuanDev/Zona3_Bootcamp/blob/cb5100213f0fe41a0280bc9358cf5defb44f6aad/BNB-Chain.md)
 - [Reto](https://github.com/IsraQuanDev/BNB-Chain-Day-Reto)
