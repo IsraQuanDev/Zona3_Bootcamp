@@ -4,7 +4,7 @@
 
 
 [Video](https://www.youtube.com/watch?v=iqjnB_jZKpg&t=8242s)
-
+[Presentación](https://docs.google.com/presentation/d/1NoqB-PSS4qt2nyY2h5NFhEf_2cqfTATs/edit#slide=id.p3)
 
 ### Aplicaciones descentralizadas (dApps)
 
@@ -41,6 +41,19 @@
 ![Aquí la descripción de la imagen por si no carga](gear_tutorial1.PNG)
 
 * Conectar Wallet [Polkadot js](https://polkadot.js.org/extension/)
+* Seleccionar Upload pogram, subir archivo tmg.opt.wasm
+* Subir metadata: meta.txt
+* Escribir nombre en Name
+* Escribir nombre tamakotshi 
+* Calculate gas 
+* Submit
+
+* App Frontend [Tamakotshi](http://ec2-54-215-49-19.us-west-1.compute.amazonaws.com:30696/)
+
+
+
+
+
 
 
 
