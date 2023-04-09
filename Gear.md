@@ -25,15 +25,20 @@
 ### Gear dApp Tamagotchi battle 
 * [Gear dApp Tamagotchi battle](https://github.com/orgs/gear-dapps/repositories)
 
-> Abrir Gitpod
-> Carpeta: src -> Archivo: lib.rs
-> Archivo: build.rs, es la interfaz entre Rust y WASM
-> Archivo: Cargo.toml, tiene las ligas de  librerias y paquetes
-> .
-> .
-> .
-> .
+> * Abrir Gitpod
+> * Carpeta: src -> Archivo: lib.rs, es el codigo del Smart Contract 
+> * Archivo: build.rs, es la interfaz entre Rust y WASM
+> * Archivo: Cargo.toml, tiene las ligas de  librerias y paquetes
+> * Ejecuta linea de comandos: " make init ", descarga las dependencias
+> * Ejecuta linea de comandos: " make build ",
+> * Ir: target -> Wasm32 -> tmg.opt.wasm (click derecho y download)
+> * Ir: meta.txt (click derecho y download)
 
+* [Ir a Gear IDEA](https://idea.gear-tech.io/programs?node=wss%3A%2F%2Fnode-workshop.gear.rs)
+
+* Seleccionar workshops
+
+![Aquí la descripción de la imagen por si no carga](gear_tutorial1.PNG)
 
 
 
