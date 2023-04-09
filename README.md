@@ -9,3 +9,15 @@
 
 - [Video](https://www.youtube.com/watch?v=IyDaGttSXsw)
 - [Notas & Reto](https://github.com/IsraQuanDev/BNB-Chain-Day-Reto)
+
+
+
+## III.- Aurora-Day
+
+- [Video](https://www.youtube.com/watch?v=L8Jp-06iBI0)
+- [Notas & Reto](..)
+
+## IV.- Solana-Day
+
+- [Video](https://www.youtube.com/watch?v=pKw6UxGE4tw)
+- [Notas & Reto](https://github.com/IsraQuanDev/taller-solana-reto)
