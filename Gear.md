@@ -4,6 +4,7 @@
 
 
 [Video](https://www.youtube.com/watch?v=iqjnB_jZKpg&t=8242s)
+
 [Presentación](https://docs.google.com/presentation/d/1NoqB-PSS4qt2nyY2h5NFhEf_2cqfTATs/edit#slide=id.p3)
 
 ### Aplicaciones descentralizadas (dApps)
