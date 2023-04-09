@@ -40,6 +40,8 @@
 
 ![Aquí la descripción de la imagen por si no carga](gear_tutorial1.PNG)
 
+* Conectar Wallet [Polkadot js](https://polkadot.js.org/extension/)
+
 
 
 
